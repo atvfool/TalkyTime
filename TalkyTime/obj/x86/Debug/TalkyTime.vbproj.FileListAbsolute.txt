@@ -1,0 +1,18 @@
+C:\Users\ahayden\AppData\Local\Temporary Projects\TalkyTime\bin\Debug\TalkyTime.exe
+C:\Users\ahayden\AppData\Local\Temporary Projects\TalkyTime\bin\Debug\TalkyTime.pdb
+C:\Users\ahayden\AppData\Local\Temporary Projects\TalkyTime\bin\Debug\TalkyTime.xml
+C:\Users\ahayden\AppData\Local\Temporary Projects\TalkyTime\obj\x86\Debug\TalkyTime.Form1.resources
+C:\Users\ahayden\AppData\Local\Temporary Projects\TalkyTime\obj\x86\Debug\TalkyTime.Resources.resources
+C:\Users\ahayden\AppData\Local\Temporary Projects\TalkyTime\obj\x86\Debug\TalkyTime.vbproj.GenerateResource.Cache
+C:\Users\ahayden\AppData\Local\Temporary Projects\TalkyTime\obj\x86\Debug\TalkyTime.exe
+C:\Users\ahayden\AppData\Local\Temporary Projects\TalkyTime\obj\x86\Debug\TalkyTime.xml
+C:\Users\ahayden\AppData\Local\Temporary Projects\TalkyTime\obj\x86\Debug\TalkyTime.pdb
+E:\Projects\TalkyTime\TalkyTime\TalkyTime\obj\x86\Debug\TalkyTime.exe
+E:\Projects\TalkyTime\TalkyTime\TalkyTime\obj\x86\Debug\TalkyTime.xml
+E:\Projects\TalkyTime\TalkyTime\TalkyTime\obj\x86\Debug\TalkyTime.pdb
+E:\Projects\TalkyTime\TalkyTime\TalkyTime\bin\Debug\TalkyTime.exe
+E:\Projects\TalkyTime\TalkyTime\TalkyTime\bin\Debug\TalkyTime.pdb
+E:\Projects\TalkyTime\TalkyTime\TalkyTime\bin\Debug\TalkyTime.xml
+E:\Projects\TalkyTime\TalkyTime\TalkyTime\obj\x86\Debug\TalkyTime.Form1.resources
+E:\Projects\TalkyTime\TalkyTime\TalkyTime\obj\x86\Debug\TalkyTime.Resources.resources
+E:\Projects\TalkyTime\TalkyTime\TalkyTime\obj\x86\Debug\TalkyTime.vbproj.GenerateResource.Cache
